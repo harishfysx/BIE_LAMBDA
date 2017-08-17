@@ -1,5 +1,4 @@
 'use strict'
-require('./config/config');
 
 // Retrieve
 var MongoClient = require('mongodb').MongoClient;
